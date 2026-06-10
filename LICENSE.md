@@ -1,4 +1,4 @@
-# 
+# Automático MetaGPT flujo de trabajo. Con UI personalizable y sistema de complementos — optimizado para el máximo rendimiento y eficiencia.
 
 
 
